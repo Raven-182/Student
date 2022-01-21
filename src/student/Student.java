@@ -16,7 +16,7 @@ public class Student {
     public static void main(String[] args) {
         // TODO code application logic here
          
-    Student1[] studentList = new Student1[3];
+    Student1[] studentList = new Student1[4];
     
     studentList[0] = new Student1("s1", "Raven");
     studentList[1] = new Student1("s2", "Anna");
