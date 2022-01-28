@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author raven
+ * @author raven, jan 28
  */
 public class Student {
 
